@@ -1,0 +1,355 @@
+INFO  12:45:56 Now listening on: http://localhost:35485
+INFO  12:45:56 Now listening on: http://localhost:35485
+INFO  12:45:56 Application started. Press Ctrl+C to shut down.
+INFO  12:45:56 Application started. Press Ctrl+C to shut down.
+INFO  12:45:56 Hosting environment: Development
+INFO  12:45:56 Hosting environment: Development
+INFO  12:45:56 Content root path: /Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI
+INFO  12:45:56 Content root path: /Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI
+INFO  12:46:12 AuthenticationRepository constructor initiated.
+INFO  12:46:12 AuthProvider constructor initiated.
+INFO  12:46:12 AuthController constructor initiated.
+INFO  12:46:21 AuthController AuthenticateUser method initiated.
+INFO  12:46:21 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:46:21 Token generation started
+INFO  12:46:21 User Credentials are correct.
+INFO  12:46:21 Token is generated successfully.
+INFO  12:46:21 Token string is returned to the Controller.
+INFO  12:46:21 Authorized User.
+INFO  12:46:26 AuthenticationRepository constructor initiated.
+INFO  12:46:26 AuthProvider constructor initiated.
+INFO  12:46:26 AuthController constructor initiated.
+INFO  12:46:26 AuthController AuthenticateUser method initiated.
+INFO  12:46:26 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:46:26 Token generation started
+INFO  12:46:26 User Credentials are not correct so token cannot be generated.
+INFO  12:46:26 Token string is returned to the Controller.
+INFO  12:46:26 Unauthorized User.
+INFO  12:52:02 AuthenticationRepository constructor initiated.
+INFO  12:52:02 AuthProvider constructor initiated.
+INFO  12:52:02 AuthController constructor initiated.
+INFO  12:52:02 AuthController AuthenticateUser method initiated.
+INFO  12:52:02 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:52:02 Token generation started
+INFO  12:52:02 User Credentials are correct.
+INFO  12:52:02 Token is generated successfully.
+INFO  12:52:02 Token string is returned to the Controller.
+INFO  12:52:02 Authorized User.
+INFO  12:52:12 AuthenticationRepository constructor initiated.
+INFO  12:52:12 AuthProvider constructor initiated.
+INFO  12:52:12 AuthController constructor initiated.
+INFO  12:52:20 AuthenticationRepository constructor initiated.
+INFO  12:52:20 AuthProvider constructor initiated.
+INFO  12:52:20 AuthController constructor initiated.
+INFO  12:52:33 AuthenticationRepository constructor initiated.
+INFO  12:52:33 AuthProvider constructor initiated.
+INFO  12:52:33 AuthController constructor initiated.
+INFO  12:52:49 AuthenticationRepository constructor initiated.
+INFO  12:52:49 AuthProvider constructor initiated.
+INFO  12:52:49 AuthController constructor initiated.
+INFO  12:54:35 AuthenticationRepository constructor initiated.
+INFO  12:54:35 AuthProvider constructor initiated.
+INFO  12:54:35 AuthController constructor initiated.
+INFO  01:00:29 AuthenticationRepository constructor initiated.
+INFO  01:00:29 AuthProvider constructor initiated.
+INFO  01:00:29 AuthController constructor initiated.
+INFO  01:00:29 AuthController AuthenticateUser method initiated.
+INFO  01:00:29 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  01:00:29 Token generation started
+INFO  01:00:29 User Credentials are correct.
+INFO  01:00:29 Token is generated successfully.
+INFO  01:00:29 Token string is returned to the Controller.
+INFO  01:00:29 Authorized User.
+INFO  01:00:47 AuthenticationRepository constructor initiated.
+INFO  01:00:47 AuthProvider constructor initiated.
+INFO  01:00:47 AuthController constructor initiated.
+INFO  01:00:48 AuthenticationRepository constructor initiated.
+INFO  01:00:48 AuthProvider constructor initiated.
+INFO  01:00:48 AuthController constructor initiated.
+INFO  01:00:52 AuthenticationRepository constructor initiated.
+INFO  01:00:52 AuthProvider constructor initiated.
+INFO  01:00:52 AuthController constructor initiated.
+INFO  01:00:52 AuthenticationRepository constructor initiated.
+INFO  01:00:52 AuthProvider constructor initiated.
+INFO  01:00:52 AuthController constructor initiated.
+INFO  01:00:59 AuthenticationRepository constructor initiated.
+INFO  01:00:59 AuthProvider constructor initiated.
+INFO  01:00:59 AuthController constructor initiated.
+INFO  01:00:59 AuthenticationRepository constructor initiated.
+INFO  01:00:59 AuthProvider constructor initiated.
+INFO  01:00:59 AuthController constructor initiated.
+INFO  01:01:06 AuthenticationRepository constructor initiated.
+INFO  01:01:06 AuthProvider constructor initiated.
+INFO  01:01:06 AuthController constructor initiated.
+INFO  01:01:07 AuthenticationRepository constructor initiated.
+INFO  01:01:07 AuthProvider constructor initiated.
+INFO  01:01:07 AuthController constructor initiated.
+INFO  06:22:50 Application started. Press Ctrl+C to shut down.
+INFO  06:22:50 Application started. Press Ctrl+C to shut down.
+INFO  06:22:50 Hosting environment: Development
+INFO  06:22:50 Hosting environment: Development
+INFO  06:22:50 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:22:50 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:26:56 AuthenticationRepository constructor initiated.
+INFO  06:26:56 AuthProvider constructor initiated.
+INFO  06:26:56 AuthController constructor initiated.
+INFO  06:26:56 AuthController AuthenticateUser method initiated.
+INFO  06:27:02 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  06:27:06 Token generation started
+INFO  06:27:24 User Credentials are correct.
+INFO  06:28:09 Token is generated successfully.
+INFO  06:28:27 Token string is returned to the Controller.
+INFO  06:28:51 Authorized User.
+INFO  06:30:09 Application started. Press Ctrl+C to shut down.
+INFO  06:30:09 Application started. Press Ctrl+C to shut down.
+INFO  06:30:09 Hosting environment: Development
+INFO  06:30:09 Hosting environment: Development
+INFO  06:30:09 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:30:09 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:40:00 Application started. Press Ctrl+C to shut down.
+INFO  06:40:00 Application started. Press Ctrl+C to shut down.
+INFO  06:40:00 Hosting environment: Development
+INFO  06:40:00 Hosting environment: Development
+INFO  06:40:00 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:40:00 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  06:40:13 AuthenticationRepository constructor initiated.
+INFO  06:40:13 AuthProvider constructor initiated.
+INFO  06:40:13 AuthController constructor initiated.
+INFO  06:40:13 AuthController AuthenticateUser method initiated.
+INFO  06:40:13 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  06:40:13 Token generation started
+INFO  06:40:13 User Credentials are correct.
+INFO  06:40:13 Token is generated successfully.
+INFO  06:40:13 Token string is returned to the Controller.
+INFO  06:40:13 Authorized User.
+INFO  07:09:36 Application started. Press Ctrl+C to shut down.
+INFO  07:09:36 Application started. Press Ctrl+C to shut down.
+INFO  07:09:36 Hosting environment: Development
+INFO  07:09:36 Hosting environment: Development
+INFO  07:09:36 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  07:09:36 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  09:21:06 Application started. Press Ctrl+C to shut down.
+INFO  09:21:06 Application started. Press Ctrl+C to shut down.
+INFO  09:21:06 Hosting environment: Development
+INFO  09:21:06 Hosting environment: Development
+INFO  09:21:06 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  09:21:06 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  09:21:26 AuthenticationRepository constructor initiated.
+INFO  09:21:26 AuthProvider constructor initiated.
+INFO  09:21:26 AuthController constructor initiated.
+INFO  09:21:26 AuthController AuthenticateUser method initiated.
+INFO  09:21:26 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:21:26 Token generation started
+INFO  09:21:26 User Credentials are correct.
+INFO  09:21:26 Token is generated successfully.
+INFO  09:21:26 Token string is returned to the Controller.
+INFO  09:21:26 Authorized User.
+INFO  09:22:04 AuthenticationRepository constructor initiated.
+INFO  09:22:04 AuthProvider constructor initiated.
+INFO  09:22:04 AuthController constructor initiated.
+INFO  09:22:16 AuthenticationRepository constructor initiated.
+INFO  09:22:16 AuthProvider constructor initiated.
+INFO  09:22:16 AuthController constructor initiated.
+INFO  09:25:01 AuthenticationRepository constructor initiated.
+INFO  09:25:01 AuthProvider constructor initiated.
+INFO  09:25:01 AuthController constructor initiated.
+INFO  09:33:04 AuthenticationRepository constructor initiated.
+INFO  09:33:04 AuthProvider constructor initiated.
+INFO  09:33:04 AuthController constructor initiated.
+INFO  09:33:50 AuthenticationRepository constructor initiated.
+INFO  09:33:50 AuthProvider constructor initiated.
+INFO  09:33:50 AuthController constructor initiated.
+INFO  09:33:50 AuthController AuthenticateUser method initiated.
+INFO  09:33:50 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:33:50 Token generation started
+INFO  09:33:50 User Credentials are correct.
+INFO  09:33:50 Token is generated successfully.
+INFO  09:33:50 Token string is returned to the Controller.
+INFO  09:33:50 Authorized User.
+INFO  09:33:53 AuthenticationRepository constructor initiated.
+INFO  09:33:53 AuthProvider constructor initiated.
+INFO  09:33:53 AuthController constructor initiated.
+INFO  09:34:01 AuthenticationRepository constructor initiated.
+INFO  09:34:01 AuthProvider constructor initiated.
+INFO  09:34:01 AuthController constructor initiated.
+INFO  09:35:51 AuthenticationRepository constructor initiated.
+INFO  09:35:51 AuthProvider constructor initiated.
+INFO  09:35:51 AuthController constructor initiated.
+INFO  09:35:51 AuthController AuthenticateUser method initiated.
+INFO  09:35:51 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:35:51 Token generation started
+INFO  09:35:51 User Credentials are correct.
+INFO  09:35:51 Token is generated successfully.
+INFO  09:35:51 Token string is returned to the Controller.
+INFO  09:35:51 Authorized User.
+INFO  09:36:00 AuthenticationRepository constructor initiated.
+INFO  09:36:00 AuthProvider constructor initiated.
+INFO  09:36:00 AuthController constructor initiated.
+INFO  09:36:00 AuthController AuthenticateUser method initiated.
+INFO  09:36:00 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:36:00 Token generation started
+INFO  09:36:00 User Credentials are correct.
+INFO  09:36:00 Token is generated successfully.
+INFO  09:36:00 Token string is returned to the Controller.
+INFO  09:36:00 Authorized User.
+INFO  09:36:03 AuthenticationRepository constructor initiated.
+INFO  09:36:03 AuthProvider constructor initiated.
+INFO  09:36:03 AuthController constructor initiated.
+INFO  09:36:46 AuthenticationRepository constructor initiated.
+INFO  09:36:46 AuthProvider constructor initiated.
+INFO  09:36:46 AuthController constructor initiated.
+INFO  09:36:46 AuthenticationRepository constructor initiated.
+INFO  09:36:46 AuthProvider constructor initiated.
+INFO  09:36:46 AuthController constructor initiated.
+INFO  09:39:19 Application started. Press Ctrl+C to shut down.
+INFO  09:39:19 Application started. Press Ctrl+C to shut down.
+INFO  09:39:19 Hosting environment: Development
+INFO  09:39:19 Hosting environment: Development
+INFO  09:39:19 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  09:39:19 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  09:39:49 AuthenticationRepository constructor initiated.
+INFO  09:39:49 AuthProvider constructor initiated.
+INFO  09:39:49 AuthController constructor initiated.
+INFO  09:39:49 AuthController AuthenticateUser method initiated.
+INFO  09:39:49 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:39:49 Token generation started
+INFO  09:39:49 User Credentials are not correct so token cannot be generated.
+INFO  09:39:49 Token string is returned to the Controller.
+INFO  09:39:49 Unauthorized User.
+INFO  09:39:58 AuthenticationRepository constructor initiated.
+INFO  09:39:58 AuthProvider constructor initiated.
+INFO  09:39:58 AuthController constructor initiated.
+INFO  09:39:58 AuthController AuthenticateUser method initiated.
+INFO  09:39:58 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:39:58 Token generation started
+INFO  09:39:58 User Credentials are correct.
+INFO  09:39:58 Token is generated successfully.
+INFO  09:39:58 Token string is returned to the Controller.
+INFO  09:39:58 Authorized User.
+INFO  09:40:30 AuthenticationRepository constructor initiated.
+INFO  09:40:30 AuthProvider constructor initiated.
+INFO  09:40:30 AuthenticationRepository constructor initiated.
+INFO  09:40:30 AuthController constructor initiated.
+INFO  09:40:30 AuthProvider constructor initiated.
+INFO  09:40:30 AuthController constructor initiated.
+INFO  09:41:24 AuthenticationRepository constructor initiated.
+INFO  09:41:24 AuthProvider constructor initiated.
+INFO  09:41:24 AuthenticationRepository constructor initiated.
+INFO  09:41:24 AuthController constructor initiated.
+INFO  09:41:24 AuthProvider constructor initiated.
+INFO  09:41:24 AuthController constructor initiated.
+INFO  09:49:43 AuthenticationRepository constructor initiated.
+INFO  09:49:43 AuthProvider constructor initiated.
+INFO  09:49:43 AuthController constructor initiated.
+INFO  09:49:50 AuthenticationRepository constructor initiated.
+INFO  09:49:50 AuthProvider constructor initiated.
+INFO  09:49:50 AuthController constructor initiated.
+INFO  09:51:03 AuthenticationRepository constructor initiated.
+INFO  09:51:03 AuthProvider constructor initiated.
+INFO  09:51:03 AuthController constructor initiated.
+INFO  09:51:07 AuthenticationRepository constructor initiated.
+INFO  09:51:07 AuthProvider constructor initiated.
+INFO  09:51:07 AuthController constructor initiated.
+INFO  09:51:14 AuthenticationRepository constructor initiated.
+INFO  09:51:14 AuthProvider constructor initiated.
+INFO  09:51:14 AuthController constructor initiated.
+INFO  09:51:14 AuthenticationRepository constructor initiated.
+INFO  09:51:14 AuthProvider constructor initiated.
+INFO  09:51:14 AuthController constructor initiated.
+INFO  09:51:32 AuthenticationRepository constructor initiated.
+INFO  09:51:32 AuthProvider constructor initiated.
+INFO  09:51:32 AuthController constructor initiated.
+INFO  09:51:32 AuthController AuthenticateUser method initiated.
+INFO  09:51:32 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:51:32 Token generation started
+INFO  09:51:32 User Credentials are not correct so token cannot be generated.
+INFO  09:51:32 Token string is returned to the Controller.
+INFO  09:51:32 Unauthorized User.
+INFO  09:52:54 AuthenticationRepository constructor initiated.
+INFO  09:52:54 AuthProvider constructor initiated.
+INFO  09:52:54 AuthController constructor initiated.
+INFO  09:52:54 AuthController AuthenticateUser method initiated.
+INFO  09:52:54 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:52:54 Token generation started
+INFO  09:52:54 User Credentials are correct.
+INFO  09:52:54 Token is generated successfully.
+INFO  09:52:54 Token string is returned to the Controller.
+INFO  09:52:54 Authorized User.
+INFO  09:53:16 AuthenticationRepository constructor initiated.
+INFO  09:53:16 AuthProvider constructor initiated.
+INFO  09:53:16 AuthController constructor initiated.
+INFO  09:53:16 AuthController AuthenticateUser method initiated.
+INFO  09:53:16 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  09:53:16 Token generation started
+INFO  09:53:16 User Credentials are correct.
+INFO  09:53:16 Token is generated successfully.
+INFO  09:53:16 Token string is returned to the Controller.
+INFO  09:53:16 Authorized User.
+INFO  09:53:22 AuthenticationRepository constructor initiated.
+INFO  09:53:22 AuthProvider constructor initiated.
+INFO  09:53:22 AuthController constructor initiated.
+INFO  09:53:22 AuthenticationRepository constructor initiated.
+INFO  09:53:22 AuthProvider constructor initiated.
+INFO  09:53:22 AuthController constructor initiated.
+INFO  09:54:08 AuthenticationRepository constructor initiated.
+INFO  09:54:08 AuthProvider constructor initiated.
+INFO  09:54:08 AuthController constructor initiated.
+INFO  09:54:08 AuthenticationRepository constructor initiated.
+INFO  09:54:08 AuthProvider constructor initiated.
+INFO  09:54:08 AuthController constructor initiated.
+INFO  11:24:22 Application started. Press Ctrl+C to shut down.
+INFO  11:24:22 Application started. Press Ctrl+C to shut down.
+INFO  11:24:22 Hosting environment: Development
+INFO  11:24:22 Hosting environment: Development
+INFO  11:24:22 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  11:24:22 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  11:24:47 AuthenticationRepository constructor initiated.
+INFO  11:24:47 AuthProvider constructor initiated.
+INFO  11:24:47 AuthController constructor initiated.
+INFO  11:24:47 AuthController AuthenticateUser method initiated.
+INFO  11:24:47 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  11:24:47 Token generation started
+INFO  11:24:47 User Credentials are correct.
+INFO  11:24:47 Token is generated successfully.
+INFO  11:24:47 Token string is returned to the Controller.
+INFO  11:24:47 Authorized User.
+INFO  11:24:54 AuthenticationRepository constructor initiated.
+INFO  11:24:54 AuthProvider constructor initiated.
+INFO  11:24:54 AuthController constructor initiated.
+INFO  11:24:54 AuthenticationRepository constructor initiated.
+INFO  11:24:54 AuthProvider constructor initiated.
+INFO  11:24:54 AuthController constructor initiated.
+INFO  03:11:38 Application started. Press Ctrl+C to shut down.
+INFO  03:11:38 Application started. Press Ctrl+C to shut down.
+INFO  03:11:38 Hosting environment: Development
+INFO  03:11:38 Hosting environment: Development
+INFO  03:11:38 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  03:11:38 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  03:11:50 AuthenticationRepository constructor initiated.
+INFO  03:11:50 AuthProvider constructor initiated.
+INFO  03:11:50 AuthController constructor initiated.
+INFO  03:11:50 AuthController AuthenticateUser method initiated.
+INFO  03:11:50 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  03:11:50 Token generation started
+INFO  03:11:50 User Credentials are correct.
+INFO  03:11:50 Token is generated successfully.
+INFO  03:11:50 Token string is returned to the Controller.
+INFO  03:11:50 Authorized User.
+INFO  03:11:54 AuthenticationRepository constructor initiated.
+INFO  03:11:54 AuthProvider constructor initiated.
+INFO  03:11:54 AuthController constructor initiated.
+INFO  03:11:54 AuthenticationRepository constructor initiated.
+INFO  03:11:54 AuthProvider constructor initiated.
+INFO  03:11:54 AuthController constructor initiated.
+INFO  03:12:15 AuthenticationRepository constructor initiated.
+INFO  03:12:15 AuthProvider constructor initiated.
+INFO  03:12:15 AuthController constructor initiated.
+INFO  03:12:15 AuthenticationRepository constructor initiated.
+INFO  03:12:15 AuthProvider constructor initiated.
+INFO  03:12:15 AuthController constructor initiated.
+INFO  03:13:51 Application started. Press Ctrl+C to shut down.
+INFO  03:13:51 Application started. Press Ctrl+C to shut down.
+INFO  03:13:51 Hosting environment: Development
+INFO  03:13:51 Hosting environment: Development
+INFO  03:13:51 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
+INFO  03:13:51 Content root path: C:\Users\870017\OneDrive - Cognizant\Desktop\Pension_Project\JWTAuthenticationAPI\JWTAuthenticationAPI
